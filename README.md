@@ -1,5 +1,5 @@
 # Clima e Tempo com API
-Aqui está um exemplo de README para a sua API que consulta dados climáticos:
+
 
 Weather Information API
 
